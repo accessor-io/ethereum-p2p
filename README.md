@@ -91,7 +91,7 @@ nexeth/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/nexeth.git
+git clone https://github.com/accessor-io/ethereum-p2p.git
 cd nexeth
 ```
 
